@@ -30,8 +30,6 @@ TypeError: $.description.split is not a function
 
 ลองอีก ลองอีก — พังทุกครั้ง!
 
-**Error เดิมซ้ำๆ**: `TypeError: $.description.split is not a function`
-
 ---
 
 **สิ่งที่ลองแล้วไม่ work:**
