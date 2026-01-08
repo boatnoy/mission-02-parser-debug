@@ -5,8 +5,11 @@ description: Squad team debugging challenge - find the parser bug
 
 # MISSION-02: Parser Bug Hunt
 
-> **Level Up with AI** - Squad Team Challenge
-> **Difficulty**: Intermediate | **Time Target**: 15-30 min
+| | |
+|---|---|
+| **Program** | Level Up with AI |
+| **Difficulty** | Intermediate |
+| **Time Target** | 15-30 min |
 
 See [docs/MISSION-02-PARSER-DEBUG.md](docs/MISSION-02-PARSER-DEBUG.md) for full instructions.
 

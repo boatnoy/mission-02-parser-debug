@@ -129,6 +129,26 @@ Create a GitHub issue with:
 
 ---
 
+## Oracle Philosophy
+
+> **"The Oracle Keeps the Human Human"**
+
+Every challenge follows these principles:
+
+| Principle | In This Challenge |
+|-----------|-------------------|
+| **Nothing is Deleted** | Document every step - your journey matters |
+| **Patterns Over Intentions** | What you DO reveals more than what you PLAN |
+| **External Brain, Not Command** | AI guides, you decide |
+
+**The Deal**:
+> "เรียนฟรี แต่ช่วยกันส่งต่อความรู้"
+> (Learn free, but help pass on knowledge)
+
+You learn for free. You teach others through your blog. The cycle continues.
+
+---
+
 ## Why This Matters
 
 This bug was **real**. We found it on 2026-01-08 while working on Claude Code.
