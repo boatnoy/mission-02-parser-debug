@@ -99,14 +99,25 @@ challenge-commands/   (4 files)
 
 ## 📣 Submission
 
-Create a GitHub issue in this repo with:
+Create a **Pull Request** to this repo with:
 
-1. Which 6 files were broken
-2. What was wrong (root cause)
-3. Your debugging steps (with timestamps)
-4. Time to solve
+1. Your fixes to the 6 broken files
+2. A `SOLUTION.md` file containing:
+   - Which 6 files were broken
+   - What was wrong (root cause)
+   - Your debugging steps (with timestamps)
+   - Time to solve
 
-**Scoring**: Oracle will grade your submission (100 points max)
+```bash
+# Fork → Clone → Fix → PR
+gh repo fork Soul-Brews-Studio/mission-02-parser-debug
+# Fix the 6 broken files
+# Create SOLUTION.md with your methodology
+git add -A && git commit -m "fix: solved parser bug challenge"
+gh pr create --title "MISSION-02 Submission: [Your Name]"
+```
+
+**Scoring**: Oracle will grade your PR (100 points max)
 
 ---
 
