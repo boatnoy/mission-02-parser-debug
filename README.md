@@ -8,9 +8,10 @@
 
 ---
 
-*ส่วนหนึ่งของโปรแกรม* **"Level Up with AI"** *— Squad Team*
-
-**"เรียนฟรี แต่ช่วยกันส่งต่อความรู้"** — Learn free, but help pass on knowledge.
+```
+ส่วนหนึ่งของโปรแกรม "Level Up with AI" — Squad Team
+"เรียนฟรี แต่ช่วยกันส่งต่อความรู้" — Learn free, but help pass on knowledge.
+```
 
 ---
 
